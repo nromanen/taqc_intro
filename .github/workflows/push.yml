@@ -1,6 +1,8 @@
 on:
   pull_request:
   push:
+permissions:
+  checks: write
 jobs:
   build-test:
     name: Build & Test
