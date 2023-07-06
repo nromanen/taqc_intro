@@ -49,3 +49,5 @@ public class AuthService {
         throw new IllegalArgumentException("The password must be a combination of numbers, letters, and special characters and at least 8 characters");
     }
 }
+
+//existing login, 8 uppercase, 8 lowercase, 8
