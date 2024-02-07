@@ -1,5 +1,5 @@
 
-# taqc_intro
+# Taqc_intro
 
 Requirement for register(login, password) method:
 
